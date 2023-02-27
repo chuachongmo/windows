@@ -1,2 +1,2 @@
 # windows
-A place to store common CMD and batch file commands
+A location to store common CMD and batch file commands
