@@ -16,8 +16,8 @@ This variable is lost once the terminal is closed.
 # Setting a variable with the current path location
 
 ```
-set "ccm=%cd%"
-echo %ccm%
+set "current_dir=%cd%"
+echo %current_dir%
 ```
 You should get back your current directory
 
