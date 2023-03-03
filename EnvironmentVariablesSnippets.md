@@ -23,3 +23,6 @@ You should get back your current directory
 
 
 
+
+[Windows CMD Syntax Reference](https://ss64.com/nt/syntax.html)
+
